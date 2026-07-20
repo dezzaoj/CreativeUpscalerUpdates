@@ -1,8 +1,8 @@
 {
-  "build" : 1003,
-  "notes" : "Полностью обновлён интерфейс рабочего процесса: новая боковая навигация, карточки источника и папки вывода, наглядный список проверки, компактная панель кадрирования, понятный выбор качества и новый экран результата. Окно обработки теперь показывает этапы, текущий файл, прогресс и итог в едином дизайне.",
-  "sha256" : "d3940902b6334c991a2e4a46fb732b6e36cd4be1423a8a2dfa00769030b4a50c",
-  "signature" : "I44DRtabNtq1/ynmJ+xFXxNrUVoLvxj08O99FP0dZynb+eBDyosKa/BkMghhdntYzW2y48Q+tZHv/xb44BryBw==",
-  "url" : "https://raw.githubusercontent.com/dezzaoj/CreativeUpscalerUpdates/main/Creative_Upscaler_1.0.3_update.zip",
-  "version" : "1.0.3"
+  "build" : 1004,
+  "notes" : "Исправлена установка обновлений: Creative Upscaler теперь быстро завершает старый процесс, заменяет приложение и запускает новую версию без зависания на этапе перезапуска. Обновление устанавливается напрямую с любой более ранней сборки, включая 1.0.0.",
+  "sha256" : "88c7162e3aec10e12122e61aeb1f2031f8b70cad1f2fd54997a3c3a8ef7f3e5f",
+  "signature" : "O3XsXdUuSyMtS86WNaN00VzX4QXIMuEzNSUR3UA1xi16qSoZB0WdWmUnW0fWfI8GJGVvpxE+5ZV02eZ/ZhgSCQ==",
+  "url" : "https://raw.githubusercontent.com/dezzaoj/CreativeUpscalerUpdates/main/Creative_Upscaler_1.0.4_update.zip",
+  "version" : "1.0.4"
 }
