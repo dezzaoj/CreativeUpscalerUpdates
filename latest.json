@@ -1,8 +1,8 @@
 {
-  "build" : 1001,
-  "notes" : "Добавлена кнопка «Пропустить» на этапе настройки кадра. Текущее фото или видео можно исключить из очереди и сразу перейти к следующему файлу.",
-  "sha256" : "eaf676aa860369207c90492f41f305569c500e9ae238ad6bef36ec80167f5c92",
-  "signature" : "g95hLF0oAS/cOknSBsa5truZWf82qbrA3MxfNl4sRzFuBMoaZPaNXSVLocj0V3WIj3YmD2FC05FoqkiNYuvvDQ==",
-  "url" : "https://raw.githubusercontent.com/dezzaoj/CreativeUpscalerUpdates/main/Creative_Upscaler_1.0.1_update.zip",
-  "version" : "1.0.1"
+  "build" : 1002,
+  "notes" : "Обновлено окно установки: добавлены понятные этапы, плавная анимация и корректный перезапуск приложения. Выбор папки вывода теперь обязателен перед проверкой и больше не дублируется на последнем этапе. Исправлено ожидание закрытия старой версии при обновлении и откате.",
+  "sha256" : "abe8d65816f05d21a1e1e9ec788bc360c424e40a8eb07e5f24575d5ef288fe0a",
+  "signature" : "evMlw+rx6iYeAKHjoUvTEl3zuwg+CJx89duO0CfE384dKZZu+ClYouVBP9KMryGv4Rz1030cd4nowaFpOSxZBg==",
+  "url" : "https://raw.githubusercontent.com/dezzaoj/CreativeUpscalerUpdates/main/Creative_Upscaler_1.0.2_update.zip",
+  "version" : "1.0.2"
 }
