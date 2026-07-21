@@ -1,8 +1,8 @@
 {
-  "build" : 1007,
-  "notes" : "Обновлён выбор способа сохранения: отдельная папка и безопасная замена исходников теперь находятся в одном понятном блоке рядом с выбором файлов.\n\nИсправлена замена исходных файлов. Готовый файл сначала создаётся и полностью проверяется; при любой ошибке оригинал остаётся на месте.",
-  "sha256" : "097ce5dc0ec3bc39479a8fdadd0769b219cc7eabf876fed1b59b9736c89bd52f",
-  "signature" : "jofSXd+JGMzxtRTdN+9NYb9xuakXxfVSoRwFaQYkcuomyW8ssFUecech3gXmuC9mRmJt7rYo8QnwfIDaK9gxCA==",
-  "url" : "https://raw.githubusercontent.com/dezzaoj/CreativeUpscalerUpdates/main/Creative_Upscaler_1.0.7_update.zip",
-  "version" : "1.0.7"
+  "build" : 1008,
+  "notes" : "Добавлена заметная зона drag & drop: папку или отдельные файлы теперь можно перетащить прямо в приложение.\n\nОбновлены блоки источника и сохранения. Выбор папки, файлов, папки вывода и создание подпапки теперь оформлены едиными крупными плитками.\n\nРежимы кадра теперь называются «Растянуть», «Обрезать» и «С фоном». На этапе «Кадр» добавлены лента файлов, кнопка «Пропустить» и горячие клавиши ⌘←, ⌘→ и ⌘S.\n\nВ боковой панели появился встроенный FAQ с краткой инструкцией. После завершения обработки macOS покажет системное уведомление.",
+  "sha256" : "ab29e58914398c983d6208ed9defb93a383ac9c70bf0d12175e6a6f2842ea45b",
+  "signature" : "uKnkgJm2Ckegh+/19S1pbYDfBITBSQwKvxireMWcvfACcsWEKgU4kttzpyvuaPNouT6eaPGmc/LCSRC3TwOFDw==",
+  "url" : "https://raw.githubusercontent.com/dezzaoj/CreativeUpscalerUpdates/main/Creative_Upscaler_1.0.8_update.zip",
+  "version" : "1.0.8"
 }
