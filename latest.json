@@ -1,8 +1,8 @@
 {
-  "build" : 1004,
-  "notes" : "Исправлена установка обновлений: Creative Upscaler теперь быстро завершает старый процесс, заменяет приложение и запускает новую версию без зависания на этапе перезапуска. Обновление устанавливается напрямую с любой более ранней сборки, включая 1.0.0.",
-  "sha256" : "88c7162e3aec10e12122e61aeb1f2031f8b70cad1f2fd54997a3c3a8ef7f3e5f",
-  "signature" : "O3XsXdUuSyMtS86WNaN00VzX4QXIMuEzNSUR3UA1xi16qSoZB0WdWmUnW0fWfI8GJGVvpxE+5ZV02eZ/ZhgSCQ==",
-  "url" : "https://raw.githubusercontent.com/dezzaoj/CreativeUpscalerUpdates/main/Creative_Upscaler_1.0.4_update.zip",
-  "version" : "1.0.4"
+  "build" : 1005,
+  "notes" : "Добавлены реальные превью фото и кадров видео, плавные переходы между этапами, улучшенные пустые состояния, заметные подсказки при ошибках выбора и анимация успешного результата. Исправлено пересечение текста в редакторе кадра. Окно теперь открывается в размере 1280×820, не уменьшается ниже безопасного размера и по-прежнему может быть увеличено.",
+  "sha256" : "89f9af9e473a8b0c926b2690e971a1316c620c8390620453851a8ed6b03ba977",
+  "signature" : "eAsyxrbqhf/NZboXNN7HYUjOVM1QTPyBSO/EUgOl10B0eoSac7IaCTLagR7kUv8Q0JPYMzteqElrF9XN244+Aw==",
+  "url" : "https://raw.githubusercontent.com/dezzaoj/CreativeUpscalerUpdates/main/Creative_Upscaler_1.0.5_update.zip",
+  "version" : "1.0.5"
 }
