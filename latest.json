@@ -1,8 +1,8 @@
 {
-  "build" : 1005,
-  "notes" : "Добавлены реальные превью фото и кадров видео, плавные переходы между этапами, улучшенные пустые состояния, заметные подсказки при ошибках выбора и анимация успешного результата. Исправлено пересечение текста в редакторе кадра. Окно теперь открывается в размере 1280×820, не уменьшается ниже безопасного размера и по-прежнему может быть увеличено.",
-  "sha256" : "89f9af9e473a8b0c926b2690e971a1316c620c8390620453851a8ed6b03ba977",
-  "signature" : "eAsyxrbqhf/NZboXNN7HYUjOVM1QTPyBSO/EUgOl10B0eoSac7IaCTLagR7kUv8Q0JPYMzteqElrF9XN244+Aw==",
-  "url" : "https://raw.githubusercontent.com/dezzaoj/CreativeUpscalerUpdates/main/Creative_Upscaler_1.0.5_update.zip",
-  "version" : "1.0.5"
+  "build" : 1006,
+  "notes" : "Исправлен выбор входной папки: приложение обрабатывает только файлы непосредственно в выбранной папке и больше не добавляет медиа из подпапок.",
+  "sha256" : "42f21248d00cd19298b1000affaf27abacf9de0a41599a4502de70bed5f8f8df",
+  "signature" : "OmvreUWxBIqCE/XWlBT07PqJRcSAOYN1V6qJ4Kijt9mTljjjA2NGKX61023bwDsmWSlzL4E3+KhggRkTAq8LAw==",
+  "url" : "https://raw.githubusercontent.com/dezzaoj/CreativeUpscalerUpdates/main/Creative_Upscaler_1.0.6_update.zip",
+  "version" : "1.0.6"
 }
