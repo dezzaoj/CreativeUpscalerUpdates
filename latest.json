@@ -1,8 +1,8 @@
 {
-  "build" : 1006,
-  "notes" : "Исправлен выбор входной папки: приложение обрабатывает только файлы непосредственно в выбранной папке и больше не добавляет медиа из подпапок.",
-  "sha256" : "42f21248d00cd19298b1000affaf27abacf9de0a41599a4502de70bed5f8f8df",
-  "signature" : "OmvreUWxBIqCE/XWlBT07PqJRcSAOYN1V6qJ4Kijt9mTljjjA2NGKX61023bwDsmWSlzL4E3+KhggRkTAq8LAw==",
-  "url" : "https://raw.githubusercontent.com/dezzaoj/CreativeUpscalerUpdates/main/Creative_Upscaler_1.0.6_update.zip",
-  "version" : "1.0.6"
+  "build" : 1007,
+  "notes" : "Обновлён выбор способа сохранения: отдельная папка и безопасная замена исходников теперь находятся в одном понятном блоке рядом с выбором файлов.\n\nИсправлена замена исходных файлов. Готовый файл сначала создаётся и полностью проверяется; при любой ошибке оригинал остаётся на месте.",
+  "sha256" : "097ce5dc0ec3bc39479a8fdadd0769b219cc7eabf876fed1b59b9736c89bd52f",
+  "signature" : "jofSXd+JGMzxtRTdN+9NYb9xuakXxfVSoRwFaQYkcuomyW8ssFUecech3gXmuC9mRmJt7rYo8QnwfIDaK9gxCA==",
+  "url" : "https://raw.githubusercontent.com/dezzaoj/CreativeUpscalerUpdates/main/Creative_Upscaler_1.0.7_update.zip",
+  "version" : "1.0.7"
 }
